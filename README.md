@@ -18,4 +18,4 @@
 - Replication Servers → VPC S3 Gateway (TCP 443)
 - Replication Servers → VPC EC2 Endpoint (TCP 443)
 
-  ![img](./docs/002.png)
+![img](./docs/002.png)
